@@ -1,0 +1,75 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "inputtype&Sequence_2",
+        "userinput&Sequence_2",
+        "ExtractDataTable&Sequence_2",
+        "str&Sequence_2",
+        "text&Sequence_2",
+        "ing&Sequence_2",
+        "method&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RecipeFlow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "choice&Flowchart_1",
+        "inputtype&Flowchart_1",
+        "userinput&Flowchart_1",
+        "ExtractDataTable&Flowchart_1",
+        "str&Flowchart_1",
+        "text&Flowchart_1",
+        "method&Flowchart_1",
+        "ocr&Flowchart_1",
+        "ingredient&Flowchart_1",
+        "ingredient2&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "read&Sequence_1",
+        "read1&Sequence_1",
+        "split&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "pasting.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence4.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
